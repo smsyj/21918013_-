@@ -1,0 +1,26 @@
+.fontstyle {
+    font-style: italic ;
+}
+
+#bg {
+    background-color: chartreuse;
+}
+
+.size {
+    font-size: 50px;
+}
+
+.color {
+    color: blue;
+}
+header {
+    color: red;
+}
+
+p {
+    color: black;
+}
+
+.namecolor {
+    color:black
+}
